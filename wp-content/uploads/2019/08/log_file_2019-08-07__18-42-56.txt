@@ -1,0 +1,1353 @@
+
+---Downloaded files---
+The import files for: Finoptis Business were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/verve-square
+Data file = G:\xampp\htdocs\verve-square/wp-content/uploads/2019/08/demo-content-import-file_2019-08-07__18-42-56.xml
+Widget file = G:\xampp\htdocs\verve-square/wp-content/uploads/2019/08/demo-widgets-import-file_2019-08-07__18-42-56.json
+Customizer file = not defined!
+Redux files:
+finoptis_option -> G:\xampp\htdocs\verve-square/wp-content/uploads/2019/08/demo-redux-import-file_0-2019-08-07__18-42-56.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import "Fahion Chair": Invalid post type product
+[WARNING] Failed to import "Body Roll On": Invalid post type product
+[WARNING] Failed to import "Makeup Box": Invalid post type product
+[WARNING] Failed to import "White Towel": Invalid post type product
+[WARNING] Failed to import "White Lamp": Invalid post type product
+[WARNING] Failed to import "Table Lamp": Invalid post type product
+[WARNING] Failed to import "Alphabet Name": Invalid post type product
+[WARNING] Failed to import "Light Bulb": Invalid post type product
+[WARNING] Failed to import "Lamp Shades": Invalid post type product
+[WARNING] Failed to import "Cold Coffee": Invalid post type product
+[WARNING] Failed to import "Lamp Holder": Invalid post type product
+[WARNING] Failed to import "Table Basket Bag": Invalid post type product
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import "Fahion Chair": Invalid post type product
+[WARNING] Failed to import "Body Roll On": Invalid post type product
+[WARNING] Failed to import "Makeup Box": Invalid post type product
+[WARNING] Failed to import "White Towel": Invalid post type product
+[WARNING] Failed to import "White Lamp": Invalid post type product
+[WARNING] Failed to import "Table Lamp": Invalid post type product
+[WARNING] Failed to import "Alphabet Name": Invalid post type product
+[WARNING] Failed to import "Light Bulb": Invalid post type product
+[WARNING] Failed to import "Lamp Shades": Invalid post type product
+[WARNING] Failed to import "Cold Coffee": Invalid post type product
+[WARNING] Failed to import "Lamp Holder": Invalid post type product
+[WARNING] Failed to import "Table Basket Bag": Invalid post type product
+[WARNING] Failed to import "Order – January 25, 2019 @ 11:01 AM": Invalid post type shop_order
+[WARNING] Failed to import "Order – January 27, 2019 @ 12:12 AM": Invalid post type shop_order
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Alpha
+[WARNING] Failed to import product_tag Appron
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Design
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Holder
+[WARNING] Failed to import product_tag Lamp
+[WARNING] Failed to import product_tag Name
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Roll
+[WARNING] Failed to import product_tag Showpiece
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag spray
+[WARNING] Failed to import product_tag Tawel
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag White
+[WARNING] Failed to import product_cat accessories
+[WARNING] Failed to import product_cat Bags
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Fashion
+[WARNING] Failed to import product_cat foods
+[WARNING] Failed to import product_cat Glasses
+[WARNING] Failed to import product_cat Jewelry
+[WARNING] Failed to import "Fahion Chair": Invalid post type product
+[WARNING] Failed to import "Body Roll On": Invalid post type product
+[WARNING] Failed to import "Makeup Box": Invalid post type product
+[WARNING] Failed to import "White Towel": Invalid post type product
+[WARNING] Failed to import "White Lamp": Invalid post type product
+[WARNING] Failed to import "Table Lamp": Invalid post type product
+[WARNING] Failed to import "Alphabet Name": Invalid post type product
+[WARNING] Failed to import "Light Bulb": Invalid post type product
+[WARNING] Failed to import "Lamp Shades": Invalid post type product
+[WARNING] Failed to import "Cold Coffee": Invalid post type product
+[WARNING] Failed to import "Lamp Holder": Invalid post type product
+[WARNING] Failed to import "Table Basket Bag": Invalid post type product
+[WARNING] Failed to import "Order – January 25, 2019 @ 11:01 AM": Invalid post type shop_order
+[WARNING] Failed to import "Order – January 27, 2019 @ 12:12 AM": Invalid post type shop_order
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+
+Search Sidebar : 
+
+Search - No Title - Imported
+
+sidebar_shop : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - No Title - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+Off Canvas Sidebar : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Finoptis - Flickr images - Latest From Flickr - Imported
+Finoptis Contact Info - Contact Info - Imported
+
+Footer One Widget Area : 
+
+Finoptis Contact Info - No Title - Imported
+Finoptis Contact Info - No Title - Imported
+Finoptis Social Icon Widget - No Title - Imported
+
+Footer Two Widget Area : 
+
+Navigation Menu - Company - Imported
+
+Footer Three Widget Area : 
+
+Text - Opening Hours - Imported
+
+Footer Four Widget Area : 
+
+Mailchimp Sign-Up Form - Subscribe Now - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: finoptis_option finished successfully!
+
+---pt-ocdi/after_import---
+
